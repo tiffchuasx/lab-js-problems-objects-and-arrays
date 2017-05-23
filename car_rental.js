@@ -200,4 +200,5 @@ console.log(vendor.availableCars());
 vendor.addCar(carA);
 console.log(vendor.availableCars());
 
+
 vendor.rentCar(customerA.id, 5);
